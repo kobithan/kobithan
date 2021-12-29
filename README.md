@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kobithan
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... android developing(react-native, flutter & laravel)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning android developing(react-native, flutter & laravel)
 - 📫 How to reach me ... gobimalli@gmail.com
 
 <!---
